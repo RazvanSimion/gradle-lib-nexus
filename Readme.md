@@ -3,6 +3,9 @@
 For any medium or large Java project we must package some of the classes into jars and use them all over the project microservices. In order to do that we use Nexus as a maven repository. 
 In this short story we will point the basic steps to create a Gradle jar library and publish it on Nexus.
 
+This is the repository for the story:
+    - https://medium.com/@simionrazvan/how-to-create-a-gradle-library-and-publish-it-on-nexus-34be19b520aa
+
 # Install Gradle
 
  
